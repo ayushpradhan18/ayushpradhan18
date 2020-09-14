@@ -1,5 +1,5 @@
 
-
+[![DevIncept logo image link](extras/logo.gif)](https://devincept.tech/)
 ### Hi there 👋
 
 
@@ -16,4 +16,4 @@ I have also worked as a Research Intern at COEP Pune under the Guidance of Dr D.
 - 💬 Ask me about AI
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ayush-pradhan-845a19194/)
 - 😄 Pronouns: Data Knows Better
-- ⚡ Fun fact: Age Of Machines is near!!!
+- ⚡ Fun fact: Age Of Machines is near !!!
