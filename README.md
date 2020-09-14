@@ -1,9 +1,14 @@
+
+
+[![http://bairdmedia.net/wp-content/uploads/2013/04/logo-linkedin-small.png](extras/logo.gif)](https://www.linkedin.com/in/ayush-pradhan-845a19194/)
 ### Hi there 👋
 
-<!--
-**ayushpradhan18/ayushpradhan18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm Ayush Pradhan,an aspiring data scientist who enjoys connecting the dots: be it ideas from different disciplines, people from different teams, or applications from different industries. I have strong technical skills and an academic background in engineering, statistics, and machine Learning
+
+I have worked as an Machine Learning Intern at heu.ai & Data Science intern at Sparks Foundation . Technical Writer at Analytics Vidhya .
+I have also worked as a Research Intern at COEP Pune under the Guidance of Dr D.N Sonawne and Pr Pramod Ubare for developing Electric Car Motor Controller.
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
