@@ -1,5 +1,5 @@
 # Ayush Pradhan
-[![linkedin](https://github.com/ayushpradhan18/png/blob/master/logo-linkedin-small.png)](https://www.linkedin.com/in/ayush-pradhan-845a19194/)                    [![Gmail](https://github.com/ayushpradhan18/png/blob/master/gmail-logo-small.png)](ayushpradhan181998@gmmail.com)
+[![linkedin](https://github.com/ayushpradhan18/png/blob/master/logo-linkedin-small.png)](https://www.linkedin.com/in/ayush-pradhan-845a19194/)                    [![Gmail](https://github.com/ayushpradhan18/png/blob/master/medium.com.png)](https://medium.com/@Ayush_Pradhan)
 
 ### Hi there 👋
 
