@@ -1,6 +1,5 @@
 
 
-[![http://bairdmedia.net/wp-content/uploads/2013/04/logo-linkedin-small.png](extras/logo.gif)](https://www.linkedin.com/in/ayush-pradhan-845a19194/)
 ### Hi there 👋
 
 
@@ -10,12 +9,11 @@ I have worked as an Machine Learning Intern at heu.ai & Data Science intern at S
 I have also worked as a Research Intern at COEP Pune under the Guidance of Dr D.N Sonawne and Pr Pramod Ubare for developing Electric Car Motor Controller.
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Face Recognition Attendance System
+- 🌱 I’m currently learning NLP & CV
+- 👯 I’m looking to collaborate on Data Science Projects
+- 🤔 I’m looking for help with Web Scrapping
+- 💬 Ask me about AI
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ayush-pradhan-845a19194/)
+- 😄 Pronouns: Data Knows Better
+- ⚡ Fun fact: Age Of Machines is near!!!
