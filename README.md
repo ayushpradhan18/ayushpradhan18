@@ -1,5 +1,5 @@
+[![linkedin](https://github.com/ayushpradhan18/png/blob/master/logo-linkedin-small.png)](https://www.linkedin.com/in/ayush-pradhan-845a19194/)         [![Gmail](https://github.com/ayushpradhan18/png/blob/master/gmail-logo-small.png)](ayushpradhan181998@gmmail.com)
 
-[![DevIncept logo image link](extras/logo.gif)](https://devincept.tech/)
 ### Hi there 👋
 
 
@@ -14,6 +14,5 @@ I have also worked as a Research Intern at COEP Pune under the Guidance of Dr D.
 - 👯 I’m looking to collaborate on Data Science Projects
 - 🤔 I’m looking for help with Web Scrapping
 - 💬 Ask me about AI
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ayush-pradhan-845a19194/)
-- 😄 Pronouns: Data Knows Better
 - ⚡ Fun fact: Age Of Machines is near !!!
+- 😄 Pronouns: Data Knows Better
